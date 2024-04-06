@@ -1,2 +1,2 @@
 # LCOM
-Notes made during LCOM classes
+Notes made during Computer Laboratory classes @FEUP
